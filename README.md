@@ -1,4 +1,5 @@
 # project-inspector-gadget
-Intro project for DSSG bootcamp; predicting building violations for the city of Chicago.
 
-Making some changes to see if it works. 
+This project is brought to you by the fabulous team Klatch!
+
+The aim of this project is to help the city of Chicago prioritize which buildings to inspect.
