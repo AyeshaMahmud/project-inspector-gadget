@@ -1,5 +1,5 @@
 # project-inspector-gadget
 
-This project is brought to you by the fabulous team Klatch!
+This project is brought to you by the fabulous Team Klatch!
 
-The aim of this project is to help the city of Chicago prioritize which buildings to inspect.
+This project is focused on assisting the city of Chicago in prioritizing city buildings to inspect.
