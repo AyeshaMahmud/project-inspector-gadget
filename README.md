@@ -1,2 +1,2 @@
 # project-inspector-gadget
-Intro project for DSSG bootcamp
+Intro project for DSSG bootcamp; predicting building violations
