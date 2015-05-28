@@ -13,3 +13,12 @@ con <- dbConnect(drv,
 
 data <- dbGetQuery(con, "SELECT * FROM jwalsh.building_permits;")
 
+data <- data[, !(names(data) %in% 'SSA')]
+
+names(data)
+sapply(data, class)
+
+violations <- dbGetQuery(con, "SELECT * FROM mahmud.building_violation_table;")
+names(violations)
+
+
