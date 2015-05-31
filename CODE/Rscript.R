@@ -16,7 +16,8 @@ data <- data[, !(names(data) %in% 'SSA')]
 names(data)
 sapply(data, class)
 
-violations <- dbGetQuery(con, "SELECT * FROM mahmud.building_violation_table;")
-names(violations)
+v.data <- dbGetQuery(con, "SELECT * FROM mahmud.building_violation_table;")
+names(v.data)
 
-
+head(v.data)
+summary(v.data)
